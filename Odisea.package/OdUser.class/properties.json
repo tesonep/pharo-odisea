@@ -1,0 +1,16 @@
+{
+	"category" : "Odisea-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"username",
+		"mail",
+		"password" ],
+	"name" : "OdUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

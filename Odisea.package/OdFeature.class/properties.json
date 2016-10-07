@@ -1,0 +1,17 @@
+{
+	"category" : "Odisea-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owners",
+		"text",
+		"comments",
+		"creationDate" ],
+	"name" : "OdFeature",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

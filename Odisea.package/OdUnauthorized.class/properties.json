@@ -1,0 +1,14 @@
+{
+	"category" : "Odisea-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OdUnauthorized",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

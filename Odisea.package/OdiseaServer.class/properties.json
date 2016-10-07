@@ -1,0 +1,17 @@
+{
+	"category" : "Odisea-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ServerInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"teapot",
+		"users",
+		"features",
+		"sessions" ],
+	"name" : "OdiseaServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
