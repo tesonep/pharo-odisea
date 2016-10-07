@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfOdisea",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfOdisea",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
