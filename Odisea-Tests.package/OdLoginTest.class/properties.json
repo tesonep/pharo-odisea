@@ -1,0 +1,14 @@
+{
+	"category" : "Odisea-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OdLoginTest",
+	"pools" : [
+		 ],
+	"super" : "OdAbstractServerTest",
+	"type" : "normal" }

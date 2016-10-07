@@ -1,0 +1,15 @@
+{
+	"category" : "Odisea-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"server",
+		"client" ],
+	"name" : "OdAbstractServerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
